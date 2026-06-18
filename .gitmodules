@@ -1,0 +1,6 @@
+[submodule "CHILD_MAY26"]
+	path = CHILD_MAY26
+	url = https://github.com/UmaGit4053/CHILD_MAY26.git
+[submodule "child1"]
+	path = child1
+	url = https://github.com/UmaGit4053/CHILD_MAY26.git
